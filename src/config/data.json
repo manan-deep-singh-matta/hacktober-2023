@@ -6,13 +6,6 @@
     "about": "Software Engineer"
   },
   {
-    "name": "Manandeep Singh Matta",
-    "email": "manansinghkhalsa229@gmail.com",
-    "githubURL": "https://github.com/manan-deep-singh-matta",
-    "about": "Decision Scientist"
-  },
-
-  {
     "name": "Gayatri Mishra",
     "email": "gayatrimishra2424@gmail.com",
     "githubURL": "https://github.com/gayatrimishraa",
@@ -329,5 +322,11 @@
     "email": "mohdnauman330@gmail.com",
     "githubURL": "https://github.com/Noman654",
     "about": "Learner"
+  }
+  {
+    "name": "Manandeep Singh Matta",
+    "email": "manansinghkhalsa229@gmail.com",
+    "githubURL": "https://github.com/manan-deep-singh-matta",
+    "about": "Decision Scientist"
   }
 ]
